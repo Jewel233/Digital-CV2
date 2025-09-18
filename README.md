@@ -40,4 +40,18 @@ git clone https://github.com/Jewel233/Digital-CV2.git
 cd Digital-CV2
 npm install
 npm run dev
+## 🔗 Live Demo
+👉 [Click here to view my Digital CV](https://jewel233s-projects.vercel.app)
+
+## 🖥️ Run Locally
+Clone the repo and run the development server:
+
+```bash
+git clone https://github.com/Jewel233/Digital-CV2.git
+cd Digital-CV2
+pnpm install   # or npm install
+pnpm dev       # or npm run dev
+
+
+
 
